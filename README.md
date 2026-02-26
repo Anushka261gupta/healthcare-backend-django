@@ -38,8 +38,8 @@ This project implements a backend system for a healthcare application using Djan
 1. Create virtualenv & install dependencies  
 2. Create `.env` with DB credentials  
 3. Run:
-    python manage.py migrate
-    python manage.py runserver
+    - python manage.py migrate
+    - python manage.py runserver
 
 ## Future Scope
 - Integrate ML model for breast cancer prediction from medical images.
